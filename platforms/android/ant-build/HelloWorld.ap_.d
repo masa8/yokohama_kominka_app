@@ -1,0 +1,25 @@
+/Users/masa/cordova/hello/platforms/android/ant-build/HelloWorld.ap_ \
+ : /Users/masa/cordova/hello/platforms/android/res/drawable/icon.png \
+/Users/masa/cordova/hello/platforms/android/res/drawable-hdpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/res/drawable-ldpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/res/drawable-mdpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/res/values/strings.xml \
+/Users/masa/cordova/hello/platforms/android/res/xml/config.xml \
+/Users/masa/cordova/hello/platforms/android/ant-build/res/drawable/icon.png \
+/Users/masa/cordova/hello/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/masa/cordova/hello/platforms/android/assets/_where-is-www.txt \
+/Users/masa/cordova/hello/platforms/android/assets/www \
+/Users/masa/cordova/hello/platforms/android/assets/www/cordova.js \
+/Users/masa/cordova/hello/platforms/android/assets/www/cordova_plugins.js \
+/Users/masa/cordova/hello/platforms/android/assets/www/css \
+/Users/masa/cordova/hello/platforms/android/assets/www/img \
+/Users/masa/cordova/hello/platforms/android/assets/www/index.html \
+/Users/masa/cordova/hello/platforms/android/assets/www/js \
+/Users/masa/cordova/hello/platforms/android/assets/www/css/index.css \
+/Users/masa/cordova/hello/platforms/android/assets/www/img/logo.png \
+/Users/masa/cordova/hello/platforms/android/assets/www/js/index.js \
+/Users/masa/cordova/hello/platforms/android/ant-build/AndroidManifest.xml \
